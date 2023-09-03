@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://diegoedgar69.github.io/tutorias-web",
+  "homepage": "https://diegoedgar69.github.io/tutorias-web/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
